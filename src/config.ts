@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Vo Van Nghia",
-  title: "Software Engineer & Homelab Enthusiast & Wannabe Scientist",
+  title: "Software Engineer | Homelab Enthusiast | Wannabe Scientist",
   description: "Portfolio website of Vo Van Nghia",
   accentColor: "#1d4ed8",
   social: {
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/vnghia",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    'A software engineer with a passion in selfhosting and science. I\'ve been working on writing software with high performance language such as C++ (at work) or Rust (my personal "Rewrite It In Rust" project). I am also building my own digital sovereignty with my homelab using an Infra-as-Code approach that covers most of my digital needs. And finally, I am finding a way to contribute my effort for the wonderful world of science!',
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
