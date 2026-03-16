@@ -77,6 +77,19 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                           {project.description}
                         </p>
 
+                        {project.bullets && project.bullets.length > 0 && (
+                          <ul class="space-y-2">
+                            {project.bullets.map((bullet) => (
+                              <li class="flex items-start">
+                                <span class="inline-block w-1.5 h-1.5 rounded-full bg-gray-400 mt-2 mr-3 flex-shrink-0" />
+                                <span class="text-sm sm:text-base text-gray-600">
+                                  {bullet}
+                                </span>
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+
                         {project.skills && project.skills.length > 0 && (
                           <div class="flex flex-wrap gap-1.5 sm:gap-2 pt-2">
                             {project.skills.map((skill) => (
