@@ -164,7 +164,7 @@ export const siteConfig = {
       bullets: [
         "Built high-performance, SLA compilant hotel availability management system with C++, OracleDB, Couchbase and Kafka.",
         "Monitored and supported live production environment with Splunk, Grafana and Promethus.",
-        "Maintained, modernized and refactored 15-years-old legacy codebases",
+        "Maintained, modernized and refactored 15-years-old legacy codebases.",
         "Improved internal Jenkins pipeline to speed up the pipeline by 60%.",
       ],
       skills: ["C++", "Oracle SQL", "Kafka", "Couchbase"],
