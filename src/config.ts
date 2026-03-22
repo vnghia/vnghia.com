@@ -162,9 +162,9 @@ export const siteConfig = {
       title: "C++ Backend Developer ",
       dateRange: "Aug 2024 - Present",
       bullets: [
-        "Maintained and worked on high-performance hotel availability management system with C++, OracleDB, Couchbase and Kafka",
-        "Monitored and supported live production environment with Splunk, Grafana and Promethus",
-        "Modernized and cleaned up 15-years-old legacy codebases as well as internal Jenkins pipeline to speed up the pipeline by 60%",
+        "Maintained and worked on high-performance hotel availability management system with C++, OracleDB, Couchbase and Kafka.",
+        "Monitored and supported live production environment with Splunk, Grafana and Promethus.",
+        "Modernized and cleaned up 15-years-old legacy codebases as well as internal Jenkins pipeline to speed up the pipeline by 60%.",
       ],
       skills: ["C++", "Oracle SQL", "Kafka", "Couchbase"],
     },
